@@ -7,13 +7,12 @@ Foram utilizadas as tecnologias HTML e CSS.
 <br>
 
 <h2> Gif do desafio: <h2> <br>
-
-
+  
+![pagina do meu portifolio](https://user-images.githubusercontent.com/82722083/154379792-150b4c14-31a7-4073-b3e1-38c33a1817bc.gif)
   
    ## Tecnologias
   - [HTML5](https://html.spec.whatwg.org/multipage/)
   - [CSS3](https://www.w3.org/TR/css3-roadmap/)
-  - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
   
   ## IDE de Desenvolvimento
   - [Visual Studio Code](https://code.visualstudio.com/)
